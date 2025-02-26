@@ -1,7 +1,7 @@
 Step by step
 
-git clone [https://github.com/Svz1404/Galkite-AutoInteraction.git](https://github.com/KARILAJA/KiteAi-Akun-1.git)
-cd KiteAi-Akun-1
+git clone [https://github.com/Svz1404/Galkite-AutoInteraction.git](https://github.com/KARILAJA/KiteAi-Akun-2.git)
+cd KiteAi-Akun-2
 
 npm install node-fetch cfonts chalk readline ora
 
